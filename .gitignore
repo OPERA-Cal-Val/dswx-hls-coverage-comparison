@@ -48,6 +48,7 @@ __pycache__/
 *.vrt
 *.json
 *.geojson
+*.csv
 
 # plots
 *.png
@@ -58,3 +59,6 @@ __pycache__/
 *.dbf
 *.prj
 *.cpg
+
+# old notebooks
+deprecated/
